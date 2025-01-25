@@ -10,9 +10,12 @@ This project explores advanced techniques in autonomous robot navigation, includ
 The key components of the project are:
 
 **ArUco Detector:** Identifies and locates ArUco markers in the simulated environment to aid in object detection.
+
 **Cast Mapping:** Generates a cast-mapped representation of the environment using ray casting techniques.
+
 **Occupancy Grid:** Maintains a probabilistic grid-based map of the environment's occupancy status.
-**Path Planner: **Implements graph-based pathfinding algorithms to generate optimal navigation routes.
+
+**Path Planner:** Implements graph-based pathfinding algorithms to generate optimal navigation routes.
 
 The project demonstrates how these components can be integrated to enable an autonomous robot to navigate through a dynamic environment, avoiding obstacles and reaching a designated target location.
 
