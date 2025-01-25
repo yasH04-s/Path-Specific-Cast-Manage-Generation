@@ -4,7 +4,9 @@ Advanced computational navigation project exploring graph-based path planning th
 This project explores advanced techniques in autonomous robot navigation, including:
 
 **Real-time Environment Perception:** Using ray casting and ArUco marker detection to build an occupancy grid map of the environment.
+
 **Intelligent Path Planning:** Generating navigation paths based on the occupancy grid and a graph-based pathfinding algorithm.
+
 **Computational Robotics Approach:** Integrating computer vision, occupancy mapping, and graph-based planning for dynamic robot movement.
 
 The key components of the project are:
